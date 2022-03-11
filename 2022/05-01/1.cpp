@@ -8,7 +8,7 @@ using namespace std;
 #define lld long long double
 #define vpi vector<pair<int,int>>
 #define ff first
-#define ss second
+#define ss second 
 #define vi vector<int>
 #define pb push_back
 #define ppb pop_back
